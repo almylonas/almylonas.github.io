@@ -23,8 +23,7 @@ const PROJECTS = [
   },
   {
     id: 3,
-    title: "Neutron Star Parameters Solver"
-",
+    title: "Neutron Star Parameters Solver",
     tags: ["Python", "Flask"],
     description:
       "A Flask-based web application for solving Tolman–Oppenheimer–Volkoff (TOV) equations for neutron stars using various Equations of State (EOS).",
