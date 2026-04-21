@@ -9,7 +9,7 @@ const PROJECTS = [
     tags: ["React"],
     description:
       "A web app for visualising LHC invariant mass datasets created in Hypatia, backed by Neon PostgreSQL.",
-    image: "https://atlas.cern/sites/default/files/resources/colouringbook/Pixel%20Detector.png",
+    image: "https://www.anthoscope.com/images/hplot.png",
     link: "https://github.com/almylonas/HPloT",
   },
   {
@@ -17,9 +17,9 @@ const PROJECTS = [
     title: "Anthoscope",
     tags: ["React", "Flask Python"],
     description:
-      "An intelligent system built with machine learning to solve real problems. Replace this with your actual project description.",
-    image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    link: "https://github.com",
+      "Anthoscope is an interactive web platform designed to help people manage their pollen allergies more effectively. It combines real-time pollen data, user input, and geospatial visualization to deliver clear, map-based insights into allergy risks across regions. Through a color-coded map, users can instantly identify safe or high-risk areas based on pollen concentration. What makes Anthoscope unique is its community-driven component: users can share their personal experiences and rate areas according to their allergy symptoms. This feedback loop creates a continuously improving, human-centered database that complements scientific forecasts with lived experiences. By combining environmental data and citizen input, Anthoscope promotes public awareness and healthier decisions for individuals with allergies, supporting both preventive healthcare and outdoor well-being. The project prototype already visualizes pollen data on an interactive map, marking the first step toward a comprehensive environmental health platform.",
+    image: "https://www.anthoscope.com/images/map.png",
+    link: "https://github.com/Anthoscope",
   },
   {
     id: 3,
