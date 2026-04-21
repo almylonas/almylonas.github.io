@@ -5,17 +5,17 @@ const NAV_LINKS = ["Home", "CV", "Projects"];
 const PROJECTS = [
   {
     id: 1,
-    title: "Project Alpha",
-    tags: ["React", "Node.js"],
+    title: "HPlot",
+    tags: ["React"],
     description:
-      "A full-stack web application that does something remarkable. Replace this with your actual project description.",
-    image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
-    link: "https://github.com",
+      "A web app for visualising LHC invariant mass datasets created in Hypatia, backed by Neon PostgreSQL.",
+    image: "https://atlas.cern/sites/default/files/resources/colouringbook/Pixel%20Detector.png",
+    link: "https://github.com/almylonas/HPloT",
   },
   {
     id: 2,
-    title: "Project Beta",
-    tags: ["Python", "ML"],
+    title: "Anthoscope",
+    tags: ["React", "Flask Python"],
     description:
       "An intelligent system built with machine learning to solve real problems. Replace this with your actual project description.",
     image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
