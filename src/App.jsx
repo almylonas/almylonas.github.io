@@ -15,7 +15,7 @@ const PROJECTS = [
   {
     id: 2,
     title: "Anthoscope",
-    tags: ["React", "Flask Python"],
+    tags: ["React", "Flask","Python"],
     description:
       "Anthoscope is an interactive web platform designed to help people manage their pollen allergies more effectively. It combines real-time pollen data, user input, and geospatial visualization to deliver clear, map-based insights into allergy risks across regions. Through a color-coded map, users can instantly identify safe or high-risk areas based on pollen concentration. What makes Anthoscope unique is its community-driven component: users can share their personal experiences and rate areas according to their allergy symptoms. This feedback loop creates a continuously improving, human-centered database that complements scientific forecasts with lived experiences. By combining environmental data and citizen input, Anthoscope promotes public awareness and healthier decisions for individuals with allergies, supporting both preventive healthcare and outdoor well-being. The project prototype already visualizes pollen data on an interactive map, marking the first step toward a comprehensive environmental health platform.",
     image: "https://www.anthoscope.com/images/map.png",
@@ -23,21 +23,22 @@ const PROJECTS = [
   },
   {
     id: 3,
-    title: "Project Gamma",
-    tags: ["Design", "UX"],
+    title: "Neutron Star Parameters Solver"
+",
+    tags: ["Python", "Flask"],
     description:
-      "A design-first product with meticulous attention to user experience. Replace this with your actual project description.",
+      "A Flask-based web application for solving Tolman–Oppenheimer–Volkoff (TOV) equations for neutron stars using various Equations of State (EOS).",
     image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
-    link: "https://github.com",
+    link: "https://github.com/almylonas/Neutron-Star-Solver-Web",
   },
   {
     id: 4,
-    title: "Project Delta",
-    tags: ["API", "Cloud"],
+    title: "Exoworlds",
+    tags: ["Javascript"],
     description:
-      "A scalable cloud-native service with a robust API layer. Replace this with your actual project description.",
+      "A 3D exoplanet generator and simulator, using real parameters, providing third and first person view",
     image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-    link: "https://github.com",
+    link: "https://github.com/Exoworlds",
   },
 ];
 
