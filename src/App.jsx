@@ -27,7 +27,7 @@ const PROJECTS = [
     tags: ["Python", "Flask"],
     description:
       "A Flask-based web application for solving Tolman–Oppenheimer–Volkoff (TOV) equations for neutron stars using various Equations of State (EOS).",
-    image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+    image: "https://www.anthoscope.com/images/neutron.png",
     link: "https://github.com/almylonas/Neutron-Star-Solver-Web",
   },
   {
@@ -36,7 +36,7 @@ const PROJECTS = [
     tags: ["Javascript"],
     description:
       "A 3D exoplanet generator and simulator, using real parameters, providing third and first person view",
-    image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
+    image: "https://www.anthoscope.com/images/exoworlds.png",
     link: "https://github.com/Exoworlds",
   },
 ];
